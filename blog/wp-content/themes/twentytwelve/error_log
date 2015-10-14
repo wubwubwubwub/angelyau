@@ -1,0 +1,1 @@
+[27-Dec-2013 07:30:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/angelyau/public_html/blog/wp-content/themes/twentytwelve/404.php on line 10
